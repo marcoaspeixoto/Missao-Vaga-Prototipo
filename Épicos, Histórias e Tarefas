@@ -4,60 +4,37 @@
 
 1. Lista de autores: Eu, COMO gestor, PRECISO obter a listagem dos autores PARA poder excluir, editar e detalalhar seus dados.
 
-2. Cadastrar novo autor: Eu, COMO gestor, PRECISO cadastrar novo autor PARA que seja selecionado o autor correspondente a acada livro.
+2. Cadastrar novo autor: Eu, COMO gestor, PRECISO cadastrar novo autor PARA posterior consulta e obtenção de informações em relatórios.
 
 3. Excluir autor: Eu, COMO gestor, PRECISO excluir os dados do autor PARA quando estes não forem mais necessários.
 
 4. Editar autor: Eu, COMO gestor, PRECISO editar os dados do autor PARA atualizá-los quando necessário.
 
-5. Detalhar autor: Eu, COMO gestor, PRECISO detalhar os dados do autor PARA poder visualiza-los separadamente.
+5. Detalhar autor: Eu, COMO gestor, PRECISO detalhar os dados do autor PARA poder visualizá-los separadamente.
 
 
-Épico: Autores
+Épico: Livros
 
-1. Lista de autores: Eu, COMO gestor, PRECISO obter a listagem dos autores PARA poder excluir, editar e detalalhar seus dados.
+1. Lista de livros: Eu, COMO gestor, PRECISO obter a listagem dos livros PARA poder excluir, editar e detalalhar seus dados.
 
-2. Cadastrar novo autor: Eu, COMO gestor, PRECISO cadastrar novo autor PARA que seja selecionado o autor correspondente a acada livro.
+2. Cadastrar novo livro: Eu, COMO gestor, PRECISO cadastrar novo livro PARA posterior consulta e obtenção de informações em relatórios.
 
-3. Excluir autor: Eu, COMO gestor, PRECISO excluir os dados do autor PARA quando estes não forem mais necessários.
+3. Excluir livro: Eu, COMO gestor, PRECISO excluir os dados do livro PARA quando estes não forem mais necessários.
 
-4. Editar autor: Eu, COMO gestor, PRECISO editar os dados do autor PARA atualizá-los quando necessário.
+4. Editar livro: Eu, COMO gestor, PRECISO editar os dados do livro PARA atualizá-los quando necessário.
 
-5. Detalhar autor: Eu, COMO gestor, PRECISO detalhar os dados do autor PARA poder visualiza-los separadamente.
+5. Detalhar livro: Eu, COMO gestor, PRECISO detalhar os dados do livro PARA poder visualizá-los separadamente.
 
-Épico: Autores
 
-1. Lista de autores: Eu, COMO gestor, PRECISO obter a listagem dos autores PARA poder excluir, editar e detalalhar seus dados.
+Épico: Fornecedores
 
-2. Cadastrar novo autor: Eu, COMO gestor, PRECISO cadastrar novo autor PARA que seja selecionado o autor correspondente a acada livro.
+1. Lista de fornecedores: Eu, COMO gestor, PRECISO obter a listagem dos fornecedores PARA poder excluir, editar e detalalhar seus dados.
 
-3. Excluir autor: Eu, COMO gestor, PRECISO excluir os dados do autor PARA quando estes não forem mais necessários.
+2. Cadastrar novo fornecedor: Eu, COMO gestor, PRECISO cadastrar novo fornecedor PARA posterior consulta e obtenção de informações em relatórios.
 
-4. Editar autor: Eu, COMO gestor, PRECISO editar os dados do autor PARA atualizá-los quando necessário.
+3. Excluir fornecedor: Eu, COMO gestor, PRECISO excluir os dados do fornecedor PARA quando estes não forem mais necessários.
 
-5. Detalhar autor: Eu, COMO gestor, PRECISO detalhar os dados do autor PARA poder visualiza-los separadamente.
+4. Editar fornecedor: Eu, COMO gestor, PRECISO editar os dados do fornecedor PARA atualizá-los quando necessário.
 
-Épico: Autores
-
-1. Lista de autores: Eu, COMO gestor, PRECISO obter a listagem dos autores PARA poder excluir, editar e detalalhar seus dados.
-
-2. Cadastrar novo autor: Eu, COMO gestor, PRECISO cadastrar novo autor PARA que seja selecionado o autor correspondente a acada livro.
-
-3. Excluir autor: Eu, COMO gestor, PRECISO excluir os dados do autor PARA quando estes não forem mais necessários.
-
-4. Editar autor: Eu, COMO gestor, PRECISO editar os dados do autor PARA atualizá-los quando necessário.
-
-5. Detalhar autor: Eu, COMO gestor, PRECISO detalhar os dados do autor PARA poder visualiza-los separadamente.
-
-Épico: Autores
-
-1. Lista de autores: Eu, COMO gestor, PRECISO obter a listagem dos autores PARA poder excluir, editar e detalalhar seus dados.
-
-2. Cadastrar novo autor: Eu, COMO gestor, PRECISO cadastrar novo autor PARA que seja selecionado o autor correspondente a acada livro.
-
-3. Excluir autor: Eu, COMO gestor, PRECISO excluir os dados do autor PARA quando estes não forem mais necessários.
-
-4. Editar autor: Eu, COMO gestor, PRECISO editar os dados do autor PARA atualizá-los quando necessário.
-
-5. Detalhar autor: Eu, COMO gestor, PRECISO detalhar os dados do autor PARA poder visualiza-los separadamente.
+5. Detalhar fornecedor: Eu, COMO gestor, PRECISO detalhar os dados do fornecedor PARA poder visualizá-los separadamente.
 
