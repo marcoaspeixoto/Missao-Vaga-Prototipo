@@ -38,3 +38,42 @@
 
 5. Detalhar fornecedor: Eu, COMO gestor, PRECISO detalhar os dados do fornecedor PARA poder visualizá-los separadamente.
 
+
+Épico: Contas
+
+1. Lista de contas: Eu, COMO gestor, PRECISO obter a listagem das contas PARA poder excluir, editar e detalalhar seus dados.
+
+2. Cadastrar nova conta: Eu, COMO gestor, PRECISO cadastrar nova conta PARA posterior consulta e obtenção de informações em relatórios.
+
+3. Excluir conta: Eu, COMO gestor, PRECISO excluir os dados da conta PARA quando estes não forem mais necessários.
+
+4. Editar conta: Eu, COMO gestor, PRECISO editar os dados da conta PARA atualizá-los quando necessário.
+
+5. Detalhar Conta: Eu, COMO gestor, PRECISO detalhar os dados da conta PARA poder visualizá-los separadamente.
+
+
+Épico: Peças
+
+1. Lista de peças: Eu, COMO gestor, PRECISO obter a listagem das peças PARA poder excluir, editar e detalalhar seus dados.
+
+2. Cadastrar nova peça: Eu, COMO gestor, PRECISO cadastrar nova peça PARA posterior consulta e obtenção de informações em relatórios.
+
+3. Excluir peça: Eu, COMO gestor, PRECISO excluir os dados da peça PARA quando estes não forem mais necessários.
+
+4. Editar peça: Eu, COMO gestor, PRECISO editar os dados da peça PARA atualizá-los quando necessário.
+
+5. Detalhar peça: Eu, COMO gestor, PRECISO detalhar os dados da peça PARA poder visualizá-los separadamente.
+
+
+Épico: Montagens
+
+1. Lista de montagens: Eu, COMO gestor, PRECISO obter a listagem das montagens PARA poder excluir, editar e detalalhar seus dados.
+
+2. Cadastrar nova montagem: Eu, COMO gestor, PRECISO cadastrar nova montagem PARA posterior consulta e obtenção de informações em relatórios.
+
+3. Excluir montagem: Eu, COMO gestor, PRECISO excluir os dados da montagem PARA quando estes não forem mais necessários.
+
+4. Editar montagem: Eu, COMO gestor, PRECISO editar os dados da montagem PARA atualizá-los quando necessário.
+
+5. Detalhar montagem: Eu, COMO gestor, PRECISO detalhar os dados da montagem PARA poder visualizá-los separadamente.
+
